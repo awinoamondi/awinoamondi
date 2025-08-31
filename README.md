@@ -1,5 +1,6 @@
 <div align="center">
 <img src=https://avatars.githubusercontent.com/u/226698425?v=4
+  
 <h1 style="font-size: 2.5em; color: #333;">Hello there! I'm [Your Name] 👋</h1>
 <p style="font-size: 1.2em; color: #555;">Front-End Engineer | Storyteller | Creative Technologist</p>
 </div>
