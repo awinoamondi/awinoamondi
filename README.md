@@ -41,8 +41,8 @@ I'm always open to collaborating on projects and exploring new ideas. Feel free 
 <a href="mailto:your.email@example.com" target="_blank">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" alt="Email Badge">
 </a>
-<a href="[https://linkedin.com/in/your-profile" target="_blank">](https://www.linkedin.com/in/nivea-awino?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
-<img src="[https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0A66C2%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn Badge">](https://www.linkedin.com/in/nivea-awino?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+<a href=https://www.linkedin.com/in/nivea-awino?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
+<img src=https://www.linkedin.com/in/nivea-awino?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
 </a>
 <a href="https://www.google.com/search?q=https://your-portfolio-website.com" target="_blank">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/Portfolio-4F7942%3Fstyle%3Dfor-the-badge%26logo%3Dnetlify%26logoColor%3Dwhite" alt="Portfolio Badge">
